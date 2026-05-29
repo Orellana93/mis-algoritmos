@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\main\\mis-algoritmos\\test_csharp\\test_csharp\\test_csharp.csproj",
-      "projectName": "test_csharp",
-      "projectPath": "C:\\main\\mis-algoritmos\\test_csharp\\test_csharp\\test_csharp.csproj",
+      "projectUniqueName": "C:\\main\\mis-algoritmos\\PCSemana2_caso1_ClasificaNota\\PCSemana2_caso1_ClasificaNota.csproj",
+      "projectName": "PCSemana2_caso1_ClasificaNota",
+      "projectPath": "C:\\main\\mis-algoritmos\\PCSemana2_caso1_ClasificaNota\\PCSemana2_caso1_ClasificaNota.csproj",
       "packagesPath": "C:\\Users\\jcgar\\.nuget\\packages\\",
-      "outputPath": "C:\\main\\mis-algoritmos\\test_csharp\\test_csharp\\obj\\",
+      "outputPath": "C:\\main\\mis-algoritmos\\PCSemana2_caso1_ClasificaNota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jcgar\\AppData\\Roaming\\NuGet\\NuGet.Config"

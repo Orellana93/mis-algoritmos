@@ -1,0 +1,15 @@
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\bin\Debug\net10.0\PCSemana2_caso1_ClasificaNota.exe
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\bin\Debug\net10.0\PCSemana2_caso1_ClasificaNota.deps.json
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\bin\Debug\net10.0\PCSemana2_caso1_ClasificaNota.runtimeconfig.json
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\bin\Debug\net10.0\PCSemana2_caso1_ClasificaNota.dll
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\bin\Debug\net10.0\PCSemana2_caso1_ClasificaNota.pdb
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.AssemblyInfoInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.AssemblyInfo.cs
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.csproj.CoreCompileInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.sourcelink.json
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.dll
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\refint\PCSemana2_caso1_ClasificaNota.dll
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.pdb
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\PCSemana2_caso1_ClasificaNota.genruntimeconfig.cache
+C:\main\mis-algoritmos\PCSemana2_caso1_ClasificaNota\obj\Debug\net10.0\ref\PCSemana2_caso1_ClasificaNota.dll

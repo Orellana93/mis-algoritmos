@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "test_csharp/1.0.0": {
+      "PCSemana2_caso1_ClasificaNota/1.0.0": {
         "runtime": {
-          "test_csharp.dll": {}
+          "PCSemana2_caso1_ClasificaNota.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "test_csharp/1.0.0": {
+    "PCSemana2_caso1_ClasificaNota/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
