@@ -1,0 +1,15 @@
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\bin\Debug\net10.0\PCSemana2_caso3_CalculaIMC.exe
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\bin\Debug\net10.0\PCSemana2_caso3_CalculaIMC.deps.json
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\bin\Debug\net10.0\PCSemana2_caso3_CalculaIMC.runtimeconfig.json
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\bin\Debug\net10.0\PCSemana2_caso3_CalculaIMC.dll
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\bin\Debug\net10.0\PCSemana2_caso3_CalculaIMC.pdb
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.AssemblyInfoInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.AssemblyInfo.cs
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.csproj.CoreCompileInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.sourcelink.json
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.dll
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\refint\PCSemana2_caso3_CalculaIMC.dll
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.pdb
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\PCSemana2_caso3_CalculaIMC.genruntimeconfig.cache
+C:\main\mis-algoritmos\PCSemana2_caso3_CalculaIMC\obj\Debug\net10.0\ref\PCSemana2_caso3_CalculaIMC.dll
