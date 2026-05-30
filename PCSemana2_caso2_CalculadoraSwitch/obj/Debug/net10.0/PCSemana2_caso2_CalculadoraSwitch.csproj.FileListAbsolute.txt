@@ -1,0 +1,15 @@
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\bin\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.exe
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\bin\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.deps.json
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\bin\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.runtimeconfig.json
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\bin\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.dll
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\bin\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.pdb
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.AssemblyInfoInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.AssemblyInfo.cs
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.csproj.CoreCompileInputs.cache
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.sourcelink.json
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.dll
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\refint\PCSemana2_caso2_CalculadoraSwitch.dll
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.pdb
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\PCSemana2_caso2_CalculadoraSwitch.genruntimeconfig.cache
+C:\main\mis-algoritmos\PCSemana2_caso2_CalculadoraSwitch\obj\Debug\net10.0\ref\PCSemana2_caso2_CalculadoraSwitch.dll
